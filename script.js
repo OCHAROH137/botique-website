@@ -3,8 +3,8 @@ const products = [
     {
         id: 1,
         name: "Premium Leather Sneakers",
-        price: 89.99,
-        originalPrice: 120.00,
+        price: 8000,
+        originalPrice: 10000.00,
         image: "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400",
         category: "shoes",
         sizes: ["7", "8", "9", "10", "11"],
